@@ -39,7 +39,7 @@
   "author": "Postman Labs <help@postman.com> (=)",
   "license": "Apache-2.0",
   "dependencies": {
-    "async": "3.2.0",
+    "async": "3.2.2",
     "chardet": "1.2.1",
     "cli-progress": "3.8.2",
     "cli-table3": "0.6.0",
@@ -53,7 +53,7 @@
     "postman-collection": "3.6.4",
     "postman-collection-transformer": "3.3.3",
     "postman-request": "2.88.1-postman.23",
-    "postman-runtime": "7.26.2",
+    "postman-runtime": "7.29.0",
     "pretty-ms": "7.0.0",
     "semver": "7.3.2",
     "serialised-error": "1.1.3",
